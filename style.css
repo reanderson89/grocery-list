@@ -1,0 +1,9 @@
+li {
+    font-size: larger;
+    padding: 5px;
+}
+
+.crossedOff {
+    text-decoration: line-through;
+}
+
